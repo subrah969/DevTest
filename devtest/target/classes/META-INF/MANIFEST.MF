@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: web-api
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: balapravirayala
+Implementation-Vendor-Id: com.thevirtugroup.postitnote
+Build-Jdk: 1.8.0_201
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
